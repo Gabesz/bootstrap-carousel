@@ -14,3 +14,6 @@ Bootstrap carousel example with touch support
   <li><a href="http://labs.rampinteractive.co.uk/touchSwipe/">touchSwipe</a></li>
   <li><a href="http://placehold.it/">Images to preview</a></li>
 </ul>
+
+<h3>Visit online</h3>
+<a href="http://gab.workz.hu/github/bootstrap-touch-carousel/">demo</a>
